@@ -2,7 +2,8 @@
 
 #################################################################
 # text_extractor.py
-# The TextExtractor class can extract the text from a given file and store the result to a sqlite database.
+# The TextExtractor class can extract the text from a given file
+# and store the result to a sqlite database.
 # Copyright 2015 Vasilakis Georgios
 # MIT License
 #################################################################
